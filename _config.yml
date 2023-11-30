@@ -84,7 +84,8 @@ author:
   avatar           : "Sinnett_Headshot.jpg"
   bio              : "Physical Oceanographer"
   location         : "San Diego, CA"
-  university       : "Scripps Institution of Oceanography"
+  university       : "UC San Diego"
+  employer         : "https://airsea.ucsd.edu/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=yan8BHgAAAAJ&hl=en&oi=ao"
   email            :
