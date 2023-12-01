@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Link to my [curriculum vitae](http://gregsinnett.github.io/files/Sinnett_cv.pdf).
 
 Education
 ======
