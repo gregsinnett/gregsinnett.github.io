@@ -2,7 +2,6 @@
 title: "The surf zone heat budget: The effect of wave heating"
 collection: publications
 permalink: /publication/Sinnett2014GRL
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2014-10-07
 venue: 'Geophysical Research Letters'
 paperurl: 'https://doi.org/10.1002/2014GL061398'
