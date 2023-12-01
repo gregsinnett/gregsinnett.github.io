@@ -8,12 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-Link to my [curriculum vitae](http://gregsinnett.github.io/files/Sinnett_cv.pdf).
+Full [cv](http://gregsinnett.github.io/files/Sinnett_cv.pdf).
 
-Education
-======
-* Ph.D. Oceanography, Scripps Institution of Oceanography, UCSD, 2018
-* M.S. Oceanography, University of Maine, 2012
-* B.S. Engineering Physics, University of Maine, 2004
-
-Full CV
+#### Contact
+<a href = "mailto: gsinnett@gmail.com">gsinnett@gmail.com</a> (personal)
+<br> 
+<a href = "mailto: gsinnett@ucsd.edu">gsinnett@ucsd.edu</a> (academic)
+<br>
