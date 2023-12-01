@@ -12,4 +12,4 @@ I am an Ocean Scientist interested in the physical aspects of the upper ocean an
 
 Together with researchers and scientists at the Air-Sea Interaction lab at the Scripps Institution of Oceanography, I am developing methods to derive sub-mesoscale upper-ocean and bathymetric parameters form aerial imagry. This work supports research on coastal geomorphology, air-sea gas exchange and ocean surface mixing.
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/BI_Spray.jpg'>
